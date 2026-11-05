@@ -1,5 +1,5 @@
-# cosmic-wallpapers
-Wallpapers for the COSMIC Desktop Environment
+# zinc-wallpapers
+Wallpapers for the Zinc Desktop Environment
 
 ## Sources
 
@@ -24,15 +24,15 @@ Wallpapers for the COSMIC Desktop Environment
 - [webb-inspired-wallpaper-system76.jpg](original/webb-inspired-wallpaper-system76.jpg)
     - Source: System76
     - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
-- [COSMIC-logo-Dark.png](original/COSMIC-logo-Dark.png)
+- [Zinc-logo-Dark.png](original/Zinc-logo-Dark.png)
     - Source: System76
     - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
-- [COSMIC-logo-White.png](original/COSMIC-logo-White.png)
+- [Zinc-logo-White.png](original/Zinc-logo-White.png)
     - Source: System76
     - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
-- [COSMIC-Pattern-Dark.png](original/COSMIC-Pattern-Dark.png)
+- [Zinc-Pattern-Dark.png](original/Zinc-Pattern-Dark.png)
     - Source: System76
     - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
-- [COSMIC-Pattern-Light.png](original/COSMIC-Pattern-Light.png)
+- [Zinc-Pattern-Light.png](original/Zinc-Pattern-Light.png)
     - Source: System76
     - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
